@@ -16,4 +16,8 @@
 - 免费在线微信对话生成器 https://www.abskoop.com/9150/
 - 在线卡通头像生成网站，内容非常丰富，包含站姿、动物、食物等。https://blush.design/zh-CN
 - uBlacklist 这个 Chrome 插件，屏蔽掉百度和 CSDN 之后，大多数技术和学术相关的搜索结果都清净多了
+- Windows 平台编辑大文件（例如导出的日志、SQL）强烈推荐 EmEditor，亲测 1.18G 的 SQL 秒开，浏览和编辑都非常丝滑，仅仅是保存时卡了 2 秒左右
+- 我一直很羡慕 @oldj 老师可以为自己的博客文章配插图，今年我也学习手绘啦！软件用 Krita，开源、跨平台。硬件是 Wacom CTE-450, 超小，超便宜,  16 年前买了送给女朋友（现在是太太）的
+- 这个插件太优秀了，让YouTube显示双字幕，也做了判断是否需要机器翻译的功能，解决了双语字幕匹配不上的问题。可以说体验非常好，可以搭配Google Translate使用。
+https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm/related?hl=zh-CN
 
